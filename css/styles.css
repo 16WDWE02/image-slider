@@ -7,6 +7,10 @@ main {
 	margin: 0 auto;
 }
 
+#gallery {
+	background-color: orange;
+}
+
 #slider {
 	width: 320px;
 	height: 180px;
